@@ -14,6 +14,19 @@
 		049CB012291E743E0098C3DB /* swiftui4DemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049CB011291E743E0098C3DB /* swiftui4DemoTests.swift */; };
 		049CB01C291E743E0098C3DB /* swiftui4DemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049CB01B291E743E0098C3DB /* swiftui4DemoUITests.swift */; };
 		049CB01E291E743E0098C3DB /* swiftui4DemoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049CB01D291E743E0098C3DB /* swiftui4DemoUITestsLaunchTests.swift */; };
+		049CB02B291E74530098C3DB /* ChartDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049CB02A291E74530098C3DB /* ChartDemo.swift */; };
+		049CB02E291E74A20098C3DB /* Charts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 049CB02D291E74A20098C3DB /* Charts.framework */; platformFilter = ios; };
+		049CB030291E79030098C3DB /* BottomSheetDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049CB02F291E79030098C3DB /* BottomSheetDemo.swift */; };
+		049CB032291E7A9C0098C3DB /* MultiDatePickerDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049CB031291E7A9C0098C3DB /* MultiDatePickerDemo.swift */; };
+		049CB034291E7C230098C3DB /* NavigationStackDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049CB033291E7C230098C3DB /* NavigationStackDemo.swift */; };
+		049CB036291E7D140098C3DB /* NavigationStack2Demo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049CB035291E7D140098C3DB /* NavigationStack2Demo.swift */; };
+		049CB038291E7DCC0098C3DB /* ShareLinkDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049CB037291E7DCC0098C3DB /* ShareLinkDemo.swift */; };
+		049CB03A291E7E580098C3DB /* IpadTableDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049CB039291E7E580098C3DB /* IpadTableDemo.swift */; };
+		049CB03C291E81000098C3DB /* GuageProcessViewDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049CB03B291E81000098C3DB /* GuageProcessViewDemo.swift */; };
+		049CB03E291F42FD0098C3DB /* ViewThatFitsDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049CB03D291F42FD0098C3DB /* ViewThatFitsDemo.swift */; };
+		049CB040291F44170098C3DB /* ColorfulSymbolDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049CB03F291F44170098C3DB /* ColorfulSymbolDemo.swift */; };
+		049CB042291F45250098C3DB /* GridDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049CB041291F45250098C3DB /* GridDemo.swift */; };
+		049CB044291F47C00098C3DB /* ChangeLayoutDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049CB043291F47C00098C3DB /* ChangeLayoutDemo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +58,19 @@
 		049CB017291E743E0098C3DB /* swiftui4DemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = swiftui4DemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		049CB01B291E743E0098C3DB /* swiftui4DemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftui4DemoUITests.swift; sourceTree = "<group>"; };
 		049CB01D291E743E0098C3DB /* swiftui4DemoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftui4DemoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		049CB02A291E74530098C3DB /* ChartDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartDemo.swift; sourceTree = "<group>"; };
+		049CB02D291E74A20098C3DB /* Charts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Charts.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS16.0.sdk/System/Library/Frameworks/Charts.framework; sourceTree = DEVELOPER_DIR; };
+		049CB02F291E79030098C3DB /* BottomSheetDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomSheetDemo.swift; sourceTree = "<group>"; };
+		049CB031291E7A9C0098C3DB /* MultiDatePickerDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiDatePickerDemo.swift; sourceTree = "<group>"; };
+		049CB033291E7C230098C3DB /* NavigationStackDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationStackDemo.swift; sourceTree = "<group>"; };
+		049CB035291E7D140098C3DB /* NavigationStack2Demo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationStack2Demo.swift; sourceTree = "<group>"; };
+		049CB037291E7DCC0098C3DB /* ShareLinkDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareLinkDemo.swift; sourceTree = "<group>"; };
+		049CB039291E7E580098C3DB /* IpadTableDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IpadTableDemo.swift; sourceTree = "<group>"; };
+		049CB03B291E81000098C3DB /* GuageProcessViewDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuageProcessViewDemo.swift; sourceTree = "<group>"; };
+		049CB03D291F42FD0098C3DB /* ViewThatFitsDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewThatFitsDemo.swift; sourceTree = "<group>"; };
+		049CB03F291F44170098C3DB /* ColorfulSymbolDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorfulSymbolDemo.swift; sourceTree = "<group>"; };
+		049CB041291F45250098C3DB /* GridDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridDemo.swift; sourceTree = "<group>"; };
+		049CB043291F47C00098C3DB /* ChangeLayoutDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangeLayoutDemo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +78,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				049CB02E291E74A20098C3DB /* Charts.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -79,6 +106,7 @@
 				049CB010291E743E0098C3DB /* swiftui4DemoTests */,
 				049CB01A291E743E0098C3DB /* swiftui4DemoUITests */,
 				049CAFFD291E743D0098C3DB /* Products */,
+				049CB02C291E74A20098C3DB /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -97,6 +125,18 @@
 			children = (
 				049CAFFF291E743D0098C3DB /* swiftui4DemoApp.swift */,
 				049CB001291E743D0098C3DB /* ContentView.swift */,
+				049CB02A291E74530098C3DB /* ChartDemo.swift */,
+				049CB02F291E79030098C3DB /* BottomSheetDemo.swift */,
+				049CB031291E7A9C0098C3DB /* MultiDatePickerDemo.swift */,
+				049CB033291E7C230098C3DB /* NavigationStackDemo.swift */,
+				049CB035291E7D140098C3DB /* NavigationStack2Demo.swift */,
+				049CB037291E7DCC0098C3DB /* ShareLinkDemo.swift */,
+				049CB039291E7E580098C3DB /* IpadTableDemo.swift */,
+				049CB03B291E81000098C3DB /* GuageProcessViewDemo.swift */,
+				049CB03D291F42FD0098C3DB /* ViewThatFitsDemo.swift */,
+				049CB03F291F44170098C3DB /* ColorfulSymbolDemo.swift */,
+				049CB041291F45250098C3DB /* GridDemo.swift */,
+				049CB043291F47C00098C3DB /* ChangeLayoutDemo.swift */,
 				049CB003291E743E0098C3DB /* Assets.xcassets */,
 				049CB005291E743E0098C3DB /* swiftui4Demo.entitlements */,
 				049CB006291E743E0098C3DB /* Preview Content */,
@@ -127,6 +167,14 @@
 				049CB01D291E743E0098C3DB /* swiftui4DemoUITestsLaunchTests.swift */,
 			);
 			path = swiftui4DemoUITests;
+			sourceTree = "<group>";
+		};
+		049CB02C291E74A20098C3DB /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				049CB02D291E74A20098C3DB /* Charts.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -259,8 +307,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				049CB040291F44170098C3DB /* ColorfulSymbolDemo.swift in Sources */,
+				049CB042291F45250098C3DB /* GridDemo.swift in Sources */,
 				049CB002291E743D0098C3DB /* ContentView.swift in Sources */,
 				049CB000291E743D0098C3DB /* swiftui4DemoApp.swift in Sources */,
+				049CB02B291E74530098C3DB /* ChartDemo.swift in Sources */,
+				049CB03C291E81000098C3DB /* GuageProcessViewDemo.swift in Sources */,
+				049CB044291F47C00098C3DB /* ChangeLayoutDemo.swift in Sources */,
+				049CB034291E7C230098C3DB /* NavigationStackDemo.swift in Sources */,
+				049CB038291E7DCC0098C3DB /* ShareLinkDemo.swift in Sources */,
+				049CB03E291F42FD0098C3DB /* ViewThatFitsDemo.swift in Sources */,
+				049CB036291E7D140098C3DB /* NavigationStack2Demo.swift in Sources */,
+				049CB03A291E7E580098C3DB /* IpadTableDemo.swift in Sources */,
+				049CB032291E7A9C0098C3DB /* MultiDatePickerDemo.swift in Sources */,
+				049CB030291E79030098C3DB /* BottomSheetDemo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
